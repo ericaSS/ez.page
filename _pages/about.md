@@ -20,6 +20,7 @@ Ultimately, my long-term goal is to advance AI-driven methods that can enhance k
 
 Publications
 ======
+
 2026
 ------
 - Zhou, S., Voit, C., Zgombic, T. WeLift: An Integrated Bodybuilding and Social Training Mobile Application. IEEE ISAIA 2026, under review
