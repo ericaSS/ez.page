@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor in St.Francis College ❗️ PhD in Computer Science @ NJIT ❗️ Biomedical Informatics Researcher ❗️ BIOSTEC 2025 Session Chair ❗️ IEEE-BIBM2024/2025 Program Committee
+@ Assistant Professor in St.Francis College 
+@ NLP & Biomedical Informatics Researcher 
 
 About me
 ======
@@ -19,6 +20,12 @@ Ultimately, my long-term goal is to advance AI-driven methods that can enhance k
 
 Publications
 ======
+2026
+------
+- Zhou, S., Voit, C., Zgombic, T. WeLift: An Integrated Bodybuilding and Social Training Mobile Application. IEEE ISAIA 2026, under review
+- Zgombic, T., Voit, C., Zhou, S. WeLift: A Smart Fitness Tracking and Social Training Hub. MSCHE Student Poster, under review
+- S. Zhou, M. Dehkordi, W. Yao, H. Liu, P. Sen, F. Deek, and Y. Perl, “Enhancing Electronic Health Records Annotation with a Cluster-Focused Combination Algorithm and Interface Terminologies,” in HEALTHINF 2025, Springer, Under Processing.
+- M. K. H. Dehkordi, S. Zhou, Y. Perl, F. Deek, H. Zhe, Vipina K Keloth, H. Liu, G. Elhanan, L. Luke, and A.J. Einstein. Curation of a Cardiology Interface Terminology for Highlighting Electronic Health Records Using Machine Learning. BMC Medical Informatics and Decision Making. 2026.
 
 2025
 ------
