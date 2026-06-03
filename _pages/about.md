@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-@ Assistant Professor in St.Francis College 
-
-@ NLP & Biomedical Informatics Researcher 
+:sparkles: Assistant Professor in St.Francis College 
+:sparkles: NLP & Biomedical Informatics Researcher 
 
 About me
 ======
